@@ -1,0 +1,4 @@
+C:\Users\jakob.cook\source\repos\loops_Jakob_Cook\loops_Jakob_Cook\obj\Debug\netcoreapp3.1\loops_Jakob_Cook.csproj.AssemblyReference.cache
+C:\Users\jakob.cook\source\repos\loops_Jakob_Cook\loops_Jakob_Cook\obj\Debug\netcoreapp3.1\loops_Jakob_Cook.AssemblyInfoInputs.cache
+C:\Users\jakob.cook\source\repos\loops_Jakob_Cook\loops_Jakob_Cook\obj\Debug\netcoreapp3.1\loops_Jakob_Cook.AssemblyInfo.cs
+C:\Users\jakob.cook\source\repos\loops_Jakob_Cook\loops_Jakob_Cook\obj\Debug\netcoreapp3.1\loops_Jakob_Cook.csproj.CoreCompileInputs.cache
